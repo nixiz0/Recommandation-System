@@ -1,0 +1,10 @@
+# Environnements
+__pycache__
+.env
+
+# Data
+classic_data
+
+# Secret key
+secret_url
+.azure_secret
